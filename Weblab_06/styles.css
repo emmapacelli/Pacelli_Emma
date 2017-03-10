@@ -1,0 +1,14 @@
+body {
+		background-color:pink;}
+ p {color:purple;}
+ a { background-color: white;}
+ p:first-letter{
+	 font-weight: bold;
+	 font-size: 40px;
+ color: red;}
+ p::first-line {
+	 color: white;
+ font-variant: small-caps;}
+ div > p {
+	 color:red;
+ font-size:20px;}

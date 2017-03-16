@@ -1,0 +1,14 @@
+p:nth-child(2){
+    color: #bb91ff;
+}
+p:nth-child(1){
+    color:hotpink;
+}
+header { color: darkorchid;
+    font-family: Broadway;}
+
+p:not(.pink){
+    color: #48cfff;
+    font-family: Gigi;
+}
+}
